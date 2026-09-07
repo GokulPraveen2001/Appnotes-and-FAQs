@@ -2,7 +2,7 @@
 A curated, quick-access repository of critical application notes, E2E community FAQs, and engineering documentation compiled during my time at Texas Instruments.
 
 ![App Notes](https://img.shields.io/badge/App%20Notes-1-blue)
-![E2E FAQs](https://img.shields.io/badge/E2E%20FAQs-12-green)
+![E2E FAQs](https://img.shields.io/badge/E2E%20FAQs-13-green)
 ![Devices](https://img.shields.io/badge/Devices-TDA4x%20Jacinto-orange)
 
 ---
@@ -30,6 +30,7 @@ A curated, quick-access repository of critical application notes, E2E community 
 * [FAQ: Enable USXGMII + SGMII on TDA4x devices](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1658164/faq-tda4vh-q1-enable-usxgmii-sgmii-on-tda4vh) – Guide to enable USXGMII + SGMII interface(ie:Multilink SERDES configuration)simultaneously across TDA4x devices.
 * [FAQ: TIMER in Capture Mode](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1575590/faq-tda4vh-timer-in-capture-mode) – Guide to enable Timer in capture mode across TDA4x devices for PWM signal capture and analysis.
 * [FAQ: ECAP LINUX FEATURE ON TDA4 BOARDS](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1528975/faq-tda4vh-ecap-linux-feature-on-tda4-boards) – Guide to enable ECAP(Enhanced Capture) module in Linux for PWM signal capture and analysis.
+* [FAQ: Enable TIFS traces on Wakeup UART](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1679960/tda4vl-q1-enable-tifs-traces-on-wakeup-uart-on-tda4x-boards) – Guide to enable TIFS traces on Wakeup UART on TDA4x devices.
 
 ---
 _Disclaimer: This repository is a personal curation of publicly available links and documents compiled during my employment at Texas Instruments. It is maintained independently and is not officially endorsed or sponsored by Texas Instruments._
