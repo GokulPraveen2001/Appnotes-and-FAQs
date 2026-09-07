@@ -20,7 +20,6 @@ A curated, quick-access repository of critical application notes, E2E community 
 * [FAQ: Configure PSLC in eMMC](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1469551/faq-j784s4xevm-how-to-configure-pslc-in-emmc) – Guide to enable pSLC configuration in eMMC from both Linux and UBoot.
 * [FAQ: Flashing to eMMC boot0/boot1 partition from Linux space](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1466421/faq-tda4vh-emmc-boot0-booting-from-linux-space) – Guide to flash bootloader binaries to eMMC Boot0/Boot1 partition and configure boot configuration parameters(suc as partconf and bootbus register) from Linux space.
 * [FAQ: Enable USXGMII + SGMII on TDA4x devices](https://e2e.ti.com/support/processors-group/processors/f/processors-forum/1658164/faq-tda4vh-q1-enable-usxgmii-sgmii-on-tda4vh) – Guide to enable USXGMII + SGMII interfance(ie:Multilink SERDES configuration)simultaneously across TDA4x devices.
-* 
   
 ---
 _Disclaimer: This repository is a personal curation of publicly available links and documents compiled during my employment at Texas Instruments. It is maintained independently and is not officially endorsed or sponsored by Texas Instruments._
