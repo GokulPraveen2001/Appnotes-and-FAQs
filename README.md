@@ -1,5 +1,5 @@
 # Technical Reference Index
-A curated, quick-access repository of critical application notes, E2E community FAQs, and engineering documentation compiled during my time at Texas Instruments.
+A curated, quick-access repository of critical application notes, E2E community FAQs, and engineering documentation authored/created during my time at Texas Instruments.
 
 ![App Notes](https://img.shields.io/badge/App%20Notes-1-blue)
 ![E2E FAQs](https://img.shields.io/badge/E2E%20FAQs-13-green)
